@@ -60,6 +60,7 @@ android {
     resourcePlaceholders {
         files = ['xml/shortcuts.xml']
     }
+    buildToolsVersion '30.0.3'
 }
 
 dependencies {
